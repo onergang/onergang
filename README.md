@@ -3,9 +3,11 @@
 
 
 ```
-Takl is cheap, show me the code!
+Talk is cheap, show me the code!
 ```
 
+
+![onergang's total](https://github-readme-stats.vercel.app/api?username=onergang&show_icons=true)
 <!--
 **onergang/onergang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
